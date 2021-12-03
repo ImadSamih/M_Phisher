@@ -76,7 +76,7 @@ $ docker run --rm -it  ImadSamih/mphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src=""/>
 </p>
 
 
